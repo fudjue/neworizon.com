@@ -1,0 +1,17 @@
+{
+  "name": "neworizon",
+  "version": "1.0.0",
+  "description": "New Horizon Tech Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "tech",
+    "website",
+    "frontend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
